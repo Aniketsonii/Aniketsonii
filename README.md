@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aniket Soni</h1>
-<h3 align="center">A passionate full-stack and Machine Learning developer from India</h3>
+<h1>Hi 👋, I'm Aniket Soni</h1>
+<h3>A passionate full-stack and Machine Learning developer from India</h3>
 
 - 🔭 I’m currently working on **Licence Plate Detection**
 

@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Aniket.soni.760@gmail.com**
 
-- ⚡ Fun fact **i ❤️ Cat's**
+- ⚡ Fun fact **i ❤️ CODE**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

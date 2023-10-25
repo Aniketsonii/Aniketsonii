@@ -25,4 +25,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aniketsonii&show_icons=true&theme=dark&title_color=03ff2c&text_color=ffffff&locale=en&layout=compact" alt="aniketsonii" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aniketsonii&theme=vue-dark&hide_border=true" alt="aniketsonii" /></p>
+
 Stats ![aniketsonii's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketsonii&theme=vue-dark&hide_border=true)
